@@ -1,0 +1,76 @@
+.topHeaderRow .navbar-default {
+    background-color: #201E67;
+    padding-right: 15px;
+}
+
+.topHeaderRow .navbar-default .navbar-nav > li > a {
+    height:35px;
+    padding-top: 4px !important;
+    padding-bottom: 0px !important;
+}
+
+.navbar-brand {
+    font-family: Lobster;
+    font-size: 30px;
+}
+
+.borderless .list-group > li {
+  border: none;
+}
+
+.panel-heading {
+    background-color: #201E67 !important;
+}
+
+.btn-custom {
+    width: 60px !important;
+}
+
+.panel-group {
+    padding: 10px !important;
+}
+.label {
+    margin: 0 4px 4px 0 !important;
+}
+
+.row {
+    margin: 0 !important;
+}
+
+p {
+    font-size: 14px !important;
+}
+
+.white {
+    color: white !important; 
+}
+
+.row.no-gutter {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.row.no-gutter [class*='col-']:not(:first-child),
+.row.no-gutter [class*='col-']:not(:last-child) {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.jumbotron {
+    padding-left: 15px !important;
+    padding-right: 20px !important;
+    background-color: #242B8D !important;
+}
+
+.gap {
+    padding-bottom: 10px;
+}
+
+.footer {
+    background: #201E67;
+    padding: 5px;
+}
+
+.horziontal-gap {
+    padding-right: 3%;
+}
